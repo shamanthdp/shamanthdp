@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Shamanth</h1>
-<h3 align="center">An UnderGrad at PESMCOE</h3>
+<h3 align="center">An a Student at PESMCOE</h3>
 
 - 🔭 I’m currently working on **Git and GitHub
 
